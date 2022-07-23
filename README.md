@@ -12,14 +12,14 @@ this is the link: [Ms-clone](https://ms-clone-homepage.netlify.app/ "the working
 **ScreenShots**:
 
 **Desktop**:
-![]([https://](https://github.com/Hamza-chaouch/ms-clone/blob/main/img/demo-img/home1.PNG))
-![]([https://](https://github.com/Hamza-chaouch/ms-clone/blob/main/img/demo-img/home2.PNG))
-![]([https://](https://github.com/Hamza-chaouch/ms-clone/blob/main/img/demo-img/home3.PNG))
+![alt](img/demo-img/home1.PNG)
+![alt](img/demo-img/home2.PNG)
+![alt](img/demo-img/home3.PNG)
+
 **Tablette**:
-![]([https://](https://github.com/Hamza-chaouch/ms-clone/blob/main/img/demo-img/home11.PNG))
-![]([https://](https://github.com/Hamza-chaouch/ms-clone/blob/main/img/demo-img/home12.PNG))
-![]([https://](https://github.com/Hamza-chaouch/ms-clone/blob/main/img/demo-img/home13.PNG))
+![alt](img/demo-img/res11.PNG)
+![alt](img/demo-img/res12.PNG)
+![alt](img/demo-img/res13.PNG)
 
 **mobile**:
-
-![]([https://](https://github.com/Hamza-chaouch/ms-clone/blob/main/img/demo-img/home3.PNG))
+![alt](img/demo-img/res21.PNG)
